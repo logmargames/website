@@ -35,7 +35,7 @@ a{color:inherit}
 .store[href*="apps.apple.com"] svg,.store-light[href*="apps.apple.com"] svg{width:34px;height:34px;display:block;fill:#fff;flex:none}
 .store[href*="play.google.com"],.store-light[href*="play.google.com"]{font-family:Roboto,"Google Sans",Arial,sans-serif}
 .store[href*="play.google.com"] svg,.store-light[href*="play.google.com"] svg{display:none}
-.store[href*="play.google.com"]::before,.store-light[href*="play.google.com"]::before{content:"";width:37px;height:41px;flex:none;background:url('/assets/google-play-icon.svg?v=6') center/contain no-repeat}
+.store[href*="play.google.com"]::before,.store-light[href*="play.google.com"]::before{content:"";width:37px;height:41px;flex:none;background:url('/assets/google-play-seeklogo.png?v=1') center/contain no-repeat}
 .section{padding:84px 0}.section-soft{background:var(--mist);border-block:1px solid var(--line)}.narrow-content{max-width:1160px;margin:auto}
 .section-head,.section-head.centered,.section-head-wide{max-width:1000px;margin:0 auto 40px;text-align:center}
 .section-head h2{margin:18px auto 18px;max-width:960px;font-size:clamp(2.25rem,3.3vw,3.05rem);line-height:1.08;letter-spacing:-.04em;text-wrap:balance;overflow-wrap:normal;word-break:normal;hyphens:none}
