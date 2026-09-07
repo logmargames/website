@@ -1,0 +1,1 @@
+.store[href*="play.google.com"]::before,.store-light[href*="play.google.com"]::before{background-image:url('/assets/google-play-icon.svg?v=3')!important;background-position:center!important;background-size:contain!important;background-repeat:no-repeat!important}
