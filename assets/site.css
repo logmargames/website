@@ -32,7 +32,7 @@ a{color:inherit}
 .store:hover,.store-light:hover{transform:translateY(-2px);box-shadow:0 7px 16px rgba(0,0,0,.14)}
 .store span,.store-light span{display:block;text-align:left}.store b,.store-light b{display:block;color:#fff;font-size:1.2rem;line-height:1.02;font-weight:500;letter-spacing:-.015em}.store small,.store-light small{display:block;color:#fff!important;font-size:.68rem;line-height:1.05;margin-bottom:3px;white-space:nowrap;opacity:1;font-weight:500;letter-spacing:.012em}
 .store[href*="apps.apple.com"],.store-light[href*="apps.apple.com"]{font-family:-apple-system,BlinkMacSystemFont,"SF Pro Display","Helvetica Neue",Arial,sans-serif}
-.store[href*="apps.apple.com"] svg,.store-light[href*="apps.apple.com"] svg{width:34px;height:34px;display:block;fill:#fff;flex:none}
+.store[href*="apps.apple.com"] svg,.store-light[href*="apps.apple.com"] svg{width:40px;height:40px;display:block;fill:#fff;flex:none}
 .store[href*="play.google.com"],.store-light[href*="play.google.com"]{font-family:Roboto,"Google Sans",Arial,sans-serif}
 .store[href*="play.google.com"] svg,.store-light[href*="play.google.com"] svg{display:none}
 .store[href*="play.google.com"]::before,.store-light[href*="play.google.com"]::before{content:"";width:37px;height:41px;flex:none;background:url('/assets/google-play-seeklogo.png?v=1') center/contain no-repeat}
